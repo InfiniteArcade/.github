@@ -1,4 +1,4 @@
-![Alt text](https://github.com/InfiniteArcade/.github/edit/main/logo.png)
+![Alt text](https://raw.githubusercontent.com/InfiniteArcade/.github/main/logo.png)
 
 # InfiniteArcade
 
